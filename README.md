@@ -1,16 +1,20 @@
-## Hi there 👋
+<div>
+  <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/62204621-f0b6-4910-97ad-f605916bcccc" />
+</div>
 
-<!--
-**julianafcouto/julianafcouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 'Juliana F. Couto'
 
-Here are some ideas to get you started:
+'''json
+{
+ "nome": "Juliana F. Couto",
+ "funcao": "FullStack Developer",
+ "localizacao": "São Paulo, SP - Brasil",
+ "stack": ["Java", "JavaScript", "PostgreSQL"],
+ "ferramentas": ["Eclipse IDE", "Git", "Apache TomCat", "VScode"],
+ "estudando": ["PHP", "Node.js", "C#"]
+ }
+'''
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ <img src=https://skillicons.dev/icons?i=java,js,jquery,postgress,python,css,html>
+</div>  
